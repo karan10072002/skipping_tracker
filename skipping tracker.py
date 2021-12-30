@@ -37,7 +37,7 @@ skips=0
 
 # image_frame=cv2.VideoCapture('http://192.168.43.1:8080/video')
 # image_frame=cv2.VideoCapture(0)
-image_frame=cv2.VideoCapture('VID_20200614_175548.mp4')
+image_frame=cv2.VideoCapture('sample skipping.mp4')
 
 a=1
 jump=0
